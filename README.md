@@ -8,7 +8,7 @@ Dans ce répértoire vous touvez des programmes de deep_learning pour l'identifi
 La prédiction de la maladie cancer en utilisant une base de données déjà définie sur sklearn on générant un modèle de prévision
 
 ### Technologies
-<strong> tensorflow, sklearn, Numpy <strong/>
+<strong> tensorflow, sklearn, Numpy </strong>
   
   
 ## 2 - CNN
@@ -17,7 +17,7 @@ En apprentissage automatique, un réseau de neurones convolutifs ou réseau de n
 
 ### Technologies
   
-  <strong> tensorflow, matplotlib, Numpy <strong/>
+  <strong> tensorflow, matplotlib, Numpy </strong>
     
     
  ![image](https://user-images.githubusercontent.com/74151613/151844393-0a0778c6-6f70-4237-a8e4-107fff5281e2.png)
